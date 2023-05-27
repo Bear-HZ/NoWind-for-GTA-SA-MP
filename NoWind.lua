@@ -1,5 +1,5 @@
 script_name("NoWind")
-script_description("Blocks servers from applying windy weather profiles")
+script_description("The script blocks servers from applying windy weather profiles. The player can still apply windy profiles locally.")
 script_author("Bear")
 script_version("1.0.0")
 
